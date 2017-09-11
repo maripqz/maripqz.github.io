@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Why Data Science?"
+date:   2017-09-10 14:50:33 -0700
+categories: Data Science
+---
+A career in data science is not where I pictured myself ten years ago. In fact, I didn’t even know that it was an option. What brought this self-professed environmentalist and sustainable food systems advocate to the world of data science? Well, I’m glad you asked.
+
+I’ve spent the last ten years working in Knowledge Management supporting domestic and foreign policy, and throughout that time I slowly began to realize that a lot of my job depended on the quick analysis of an exponentially increasing amount of information. Each new policy document had a slightly different take than the last, and as the Open Data movement took hold, they were all releasing their data for advocates and wonks to dig in as they pleased. How was a girl to keep up? I started using my free time to learn the tools of the trade of data science: I attended [women’s python classes]('https://hearmecode.com/') (you can kiiiind of see me in one of the pics on their homepage),  taught myself [Gephi]('https://gephi.org/') and [NodeXL]('https://nodexl.codeplex.com/') to run a social network analysis of my project team, and attended as many data conferences as my employer would allow.
+
+When I left DC I didn’t leave this newfound interest behind. I found work at a startup and got to dig a little deeper into data analysis: I harangued our Data Scientist into helping me with some A/B tests on new product ideas… I built an evaluation matrix to quantify the squishy topic of community management… and I devoured all the blogs and podcasts that might help me make data-driven decisions. Eventually I hit a self-taught wall and realized I needed more skills to run the type of analyses that would . I decided to jump into an immersive Data Science Bootcamp through [Galvanize]('http://www.galvanize.com/courses/data-science/') (more on this in a future post!). I’m now learning SQL, pandas, web scraping, machine learning algorithms and the statistical models to make sense of them all. It’s overwhelming, but also a ton of fun!
+
+The choice to become a data scientist may come as a surprise to the folks that know me from the food policy and international development worlds, but to me it’s a natural progression of my interests, and I’m excited to see where it’ll take me. I’m looking forward to using this new set of skills to help small businesses and nonprofits make sense of their data. If you’ve worked with me in one of my past lives (local foods, international development, knowledge management, the startup world) and think you might be able to use some of these fledgling skills, hit me up! I’m always looking for new projects.
